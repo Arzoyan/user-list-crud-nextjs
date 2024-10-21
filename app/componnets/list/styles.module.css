@@ -1,0 +1,10 @@
+.listContainer{
+    width: clamp(200px, 40vw, 450px);
+}
+
+.userItem{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #fff;
+    margin-bottom: 10px;
+}
